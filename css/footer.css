@@ -1,0 +1,12 @@
+/* 用于解决页面底部文字难以辨认的问题 */
+
+.footer-inner {
+    color: aliceblue;
+}
+.footer-link {
+    color: aliceblue;
+}
+/* 恢复悬浮时的颜色 */
+.footer-link:hover {
+    color: #F68657;
+}

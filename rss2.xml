@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>月海残梦</title>
+    <link>https://FadingMoon.cc/</link>
+    
+    <atom:link href="https://fadingmoon.cc/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>ZhyxのBlog</description>
+    <pubDate>Thu, 24 Jul 2025 07:29:27 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://fadingmoon.cc/post/20250725130712.html</link>
+      <guid>https://fadingmoon.cc/post/20250725130712.html</guid>
+      <pubDate>Fri, 25 Jul 2025 05:07:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://fadingmoon.cc/post/20250725130712.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
